@@ -1,0 +1,170 @@
+digraph {
+	0 [label="Freq: 351"]
+	0 -> 1 [label=0]
+	1 [label="Freq: 143"]
+	1 -> 3 [label=0]
+	3 [label="Freq: 65"]
+	3 -> 7 [label=0]
+	7 [label="Freq: 31"]
+	7 -> 15 [label=0]
+	15 [label="'i'
+Freq: 15"]
+	7 -> 16 [label=1]
+	16 [label="Freq: 16"]
+	16 -> 33 [label=0]
+	33 [label="Freq: 8"]
+	33 -> 67 [label=0]
+	67 [label="','
+Freq: 4"]
+	33 -> 68 [label=1]
+	68 [label="Freq: 4"]
+	68 -> 137 [label=0]
+	137 [label="Freq: 2"]
+	137 -> 275 [label=0]
+	275 [label="';'
+Freq: 1"]
+	137 -> 276 [label=1]
+	276 [label="'A'
+Freq: 1"]
+	68 -> 138 [label=1]
+	138 [label="Freq: 2"]
+	138 -> 277 [label=0]
+	277 [label="'b'
+Freq: 1"]
+	138 -> 278 [label=1]
+	278 [label="'?'
+Freq: 1"]
+	16 -> 34 [label=1]
+	34 [label="Freq: 8"]
+	34 -> 69 [label=0]
+	69 [label="Freq: 4"]
+	69 -> 139 [label=0]
+	139 [label="Freq: 2"]
+	139 -> 279 [label=0]
+	279 [label="'’'
+Freq: 1"]
+	139 -> 280 [label=1]
+	280 [label="'W'
+Freq: 1"]
+	69 -> 140 [label=1]
+	140 [label="'I'
+Freq: 2"]
+	34 -> 70 [label=1]
+	70 [label="Freq: 4"]
+	70 -> 141 [label=0]
+	141 [label="'''
+Freq: 2"]
+	70 -> 142 [label=1]
+	142 [label="'m'
+Freq: 2"]
+	3 -> 8 [label=1]
+	8 [label="Freq: 34"]
+	8 -> 17 [label=0]
+	17 [label="Freq: 17"]
+	17 -> 35 [label=0]
+	35 [label="'P'
+Freq: 8"]
+	17 -> 36 [label=1]
+	36 [label="Freq: 9"]
+	36 -> 73 [label=0]
+	73 [label="'y'
+Freq: 4"]
+	36 -> 74 [label=1]
+	74 [label="Freq: 5"]
+	74 -> 149 [label=0]
+	149 [label="Freq: 2"]
+	149 -> 299 [label=0]
+	299 [label="'-'
+Freq: 1"]
+	149 -> 300 [label=1]
+	300 [label="'v'
+Freq: 1"]
+	74 -> 150 [label=1]
+	150 [label="'g'
+Freq: 3"]
+	8 -> 18 [label=1]
+	18 [label="'a'
+Freq: 17"]
+	1 -> 4 [label=1]
+	4 [label="Freq: 78"]
+	4 -> 9 [label=0]
+	9 [label="Freq: 38"]
+	9 -> 19 [label=0]
+	19 [label="'c'
+Freq: 18"]
+	9 -> 20 [label=1]
+	20 [label="'r'
+Freq: 20"]
+	4 -> 10 [label=1]
+	10 [label="Freq: 40"]
+	10 -> 21 [label=0]
+	21 [label="Freq: 20"]
+	21 -> 43 [label=0]
+	43 [label="'l'
+Freq: 10"]
+	21 -> 44 [label=1]
+	44 [label="'t'
+Freq: 10"]
+	10 -> 22 [label=1]
+	22 [label="Freq: 20"]
+	22 -> 45 [label=0]
+	45 [label="'
+'
+Freq: 10"]
+	22 -> 46 [label=1]
+	46 [label="'o'
+Freq: 10"]
+	0 -> 2 [label=1]
+	2 [label="Freq: 208"]
+	2 -> 5 [label=0]
+	5 [label="Freq: 96"]
+	5 -> 11 [label=0]
+	11 [label="Freq: 46"]
+	11 -> 23 [label=0]
+	23 [label="Freq: 22"]
+	23 -> 47 [label=0]
+	47 [label="'d'
+Freq: 11"]
+	23 -> 48 [label=1]
+	48 [label="'s'
+Freq: 11"]
+	11 -> 24 [label=1]
+	24 [label="Freq: 24"]
+	24 -> 49 [label=0]
+	49 [label="'k'
+Freq: 12"]
+	24 -> 50 [label=1]
+	50 [label="Freq: 12"]
+	50 -> 101 [label=0]
+	101 [label="'h'
+Freq: 5"]
+	50 -> 102 [label=1]
+	102 [label="'f'
+Freq: 7"]
+	5 -> 12 [label=1]
+	12 [label="'e'
+Freq: 50"]
+	2 -> 6 [label=1]
+	6 [label="Freq: 112"]
+	6 -> 13 [label=0]
+	13 [label="' '
+Freq: 55"]
+	6 -> 14 [label=1]
+	14 [label="Freq: 57"]
+	14 -> 29 [label=0]
+	29 [label="Freq: 28"]
+	29 -> 59 [label=0]
+	59 [label="Freq: 14"]
+	59 -> 119 [label=0]
+	119 [label="'u'
+Freq: 7"]
+	59 -> 120 [label=1]
+	120 [label="'w'
+Freq: 7"]
+	29 -> 60 [label=1]
+	60 [label="'n'
+Freq: 14"]
+	14 -> 30 [label=1]
+	30 [label="'p'
+Freq: 29"]
+}
